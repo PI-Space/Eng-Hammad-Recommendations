@@ -88,6 +88,7 @@ Link: http://sd.blackball.lv/library/CLR_via_CSharp_(Jeffrey_Richter_4th_Edition
 1-  CS 162, 2019, UC Berkeley (Toturials) "All levels"
 
 Videos Link: https://www.bilibili.com/video/BV1e7411B7Ja?p=3
+
 Resources Link: https://inst.eecs.berkeley.edu/~cs162/sp19/
 
 2- Introduction to Operating System Design and Implementation (Book) "Entry"
