@@ -47,6 +47,12 @@ Link: https://www.facebook.com/mohamed.hamedhammad/posts/2495377697201432
 
 Link: https://www.red-gate.com/library/sql-server-concurrency-locking-blocking-and-row-versioning
 
+3- Professional SQL Server 2012 Internals and Troubleshooting
+
+Link: http://2.droppdf.com/files/uXeQV/professional-sql-server-2012-internals-and-troubleshooting.pdf
+
+
+
 ## Artificial intelligence
 
 1- artificial intelligence a modern approach  (Book)
@@ -64,3 +70,30 @@ Link: https://oiipdf.com/download/2680
 2- Functional Programming For The Real World (Book)
 
 Link: https://doc.lagout.org/programmation/Functional%20Programming/Functional%20Programming%20For%20The%20Real%20World.pdf
+
+## .NET 
+
+1- Concurrency in .NET- Manning Publications
+
+Link: https://itbook.store/files/9781617292996/chapter7.pdf
+
+2- CLR via C# pdf
+
+Link: http://sd.blackball.lv/library/CLR_via_CSharp_(Jeffrey_Richter_4th_Edition).pdf
+
+## Operating System
+#### He recommended Berkeley courses, here is the latest version of the course 
+1-  CS 162, 2019, UC Berkeley (Toturials) "All levels"
+
+Videos Link: https://www.bilibili.com/video/BV1e7411B7Ja?p=3
+Resources Link: https://inst.eecs.berkeley.edu/~cs162/sp19/
+
+2- Introduction to Operating System Design and Implementation (Book) "Entry"
+
+Link: https://www.springer.com/gp/book/9781846288425 
+
+3- OPERATING SYSTEMS THREE EASY PIECES (Book) "Entry"
+
+Link: https://pages.cs.wisc.edu/~remzi/OSTEP/
+
+
