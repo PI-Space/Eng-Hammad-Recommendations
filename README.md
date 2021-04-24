@@ -6,11 +6,11 @@ The repo cantains books, toturials and resources based on the recommendations of
 
 Link: https://m.youtube.com/watch?v=Q_itdXI3YeE&list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d&index=1
 
-2- Grokking Algorithms (entry level)
+2- Grokking Algorithms (book) (entry level)
 
 Link : https://bit.ly/3xl71jO
 
-3- Algorithms Unplugged (More Advanced)
+3- Algorithms Unplugged (book) (More Advanced)
 
 Link : https://link.springer.com/book/10.1007/978-3-642-15328-0
 
@@ -26,7 +26,7 @@ Link : https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
 
 Link : https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O
 
-3- The text book of the previous course:
+3- The text book of the previous course: 
 
 Link : https://www.db-book.com/db7/index.html
 
@@ -101,7 +101,7 @@ Link: https://pages.cs.wisc.edu/~remzi/OSTEP/
 
 ##  Deep Learning in Life Sciences 
 
-1- MIT Deep Learning in Life Sciences 6.874 Spring 2020
+1- MIT Deep Learning in Life Sciences 6.874 Spring 2020 (Toturials)
 
 Videos Link: https://www.youtube.com/playlistlist=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB
 
@@ -111,7 +111,7 @@ https://mit6874.github.io/?fbclid=IwAR1Kg-k_QVFUDhSD4BzmQCKuW7MObuq5JUSj-VSmDALO
 
 ## Data Science Entry Course 
 
-1- MITx 6.00.2x, Introduction to Computational Thinking and Data Science
+1- MITx 6.00.2x, Introduction to Computational Thinking and Data Science (Toturials)
 
 Link: https://courses.edx.org/.../course-v1:MITx+6.00.../course/
 
