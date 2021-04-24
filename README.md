@@ -109,7 +109,11 @@ Resourses Link:
 https://mit6874.github.io/?fbclid=IwAR1Kg-k_QVFUDhSD4BzmQCKuW7MObuq5JUSj-VSmDALOF86FIn8-JZO2kEY
 
 
+## Data Science Entry Course 
 
+1- MITx 6.00.2x, Introduction to Computational Thinking and Data Science
+
+Link: https://courses.edx.org/.../course-v1:MITx+6.00.../course/
 
 
 
