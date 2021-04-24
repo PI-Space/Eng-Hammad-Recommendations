@@ -1,5 +1,5 @@
 # Eng-Hammad-Recommendations
-The repo is under construction and will keep updating as more useful recommendations come through
+The repo cantains books, toturials and resources based on the recommendations of eng Mohammed Hammad, it's still under construction and will keep updating as more useful recommendations come through..
 ## Computational Thinking and Algorithms
 
 1- MIT Tutorials (entry level)
