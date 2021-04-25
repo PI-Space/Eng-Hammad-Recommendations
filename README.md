@@ -144,8 +144,9 @@ https://mit6874.github.io/?fbclid=IwAR1Kg-k_QVFUDhSD4BzmQCKuW7MObuq5JUSj-VSmDALO
 ## Data Science Entry Course 
 
 1- MITx 6.00.2x, Introduction to Computational Thinking and Data Science (Tutorials)
-
-Link: https://courses.edx.org/.../course-v1:MITx+6.00.../course/
+You must register an edx account 
+You can audit the course for free 
+Link : https://www.edx.org/course/introduction-to-computational-thinking-and-data-4
 
 
 ## Build High Quality Software سوفت وير محترم يعني :)
