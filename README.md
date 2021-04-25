@@ -81,6 +81,10 @@ Link: https://oiipdf.com/download/2680
 
 Link: https://doc.lagout.org/programmation/Functional%20Programming/Functional%20Programming%20For%20The%20Real%20World.pdf
 
+3- Category theory for programmers by bartosz milewisky
+
+Link : https://github.com/hmemcpy/milewski-ctfp-pdf
+
 ## .NET 
 
 1- Concurrency in .NET- Manning Publications (book)
