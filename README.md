@@ -1,5 +1,7 @@
 # Eng-Hammad-Recommendations
 The repo contains books, tutorials and resources based on the recommendations of eng Mohammed Hammad, it's still under construction and will keep updating as more useful recommendations come through..
+
+
 ## Computational Thinking and Algorithms
 
 1- MIT Tutorials (entry level)
@@ -160,6 +162,7 @@ Link: https://courses.edx.org/.../course-v1:MITx+6.00.../course/
 5- Continuous Delivery
 
 Link for all : https://martinfowler.com/books/
+
 Reference Article : https://www.facebook.com/mohamed.hamedhammad/posts/4783645665041279
 
 6- NoSQL Distilled
@@ -192,3 +195,20 @@ Link : https://github.com/abhinavkorpal/awesome-computer-science-EBook/blob/mast
 Reference Article/s : https://www.facebook.com/mohamed.hamedhammad/posts/4565269806878867
 
 
+## Domain Driven Design
+
+1- Domain-Driven Design Distilled (entry )
+
+Link : https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420
+
+2- implementing domain driven design 
+
+Link : https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577
+
+3- domain driven design, eric evans
+
+Link : https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215
+
+Reference Article/s : Explore Articles here
+
+https://www.facebook.com/profile/100001876777351/search/?q=ddd
