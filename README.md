@@ -89,6 +89,30 @@ Link: https://itbook.store/files/9781617292996/chapter7.pdf
 
 Link: http://sd.blackball.lv/library/CLR_via_CSharp_(Jeffrey_Richter_4th_Edition).pdf
 
+3- C# 9.0 in a Nutshell (book)
+
+Link : http://scienceadvantage.net/wp-content/uploads/2020/09/C-8.0-In-A-Nutshell-The-Definitive-Reference-02.06.2020.-.pdf
+
+4- C# in Depth (book)
+
+Link : https://www.manning.com/books/c-sharp-in-depth-fourth-edition
+
+5- Gavin Lon channel on YouTube (Tutorials)
+
+Channel Link : https://www.youtube.com/channel/UCa-Qgwt5VxN0iP3q6reHN6g
+
+Link for beginner c# in the same channel : https://www.youtube.com/playlist?list=PL4LFuHwItvKbneXxSutjeyz6i1w32K6di
+
+
+Link for Advanced c# in the same channel : https://www.youtube.com/playlist?list=PL4LFuHwItvKaOi-bN1E2WUVyZbuRhVokL
+
+Reference Articles:
+
+1- https://www.facebook.com/mohamed.hamedhammad/posts/5345089308896909
+
+2- explore more posts here using this filter (you must sign in facebook )
+https://www.facebook.com/profile/100001876777351/search/?q=c%23%20
+
 ## Operating System
 #### He recommended Berkeley courses, here is the latest version of the course 
 1-  CS 162, 2019, UC Berkeley (Tutorials) "All levels"
