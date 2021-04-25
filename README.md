@@ -146,5 +146,49 @@ https://mit6874.github.io/?fbclid=IwAR1Kg-k_QVFUDhSD4BzmQCKuW7MObuq5JUSj-VSmDALO
 Link: https://courses.edx.org/.../course-v1:MITx+6.00.../course/
 
 
+## Build High Quality Software سوفت وير محترم يعني :)
+
+### Martin Fowler books
+1- Refactoring
+
+2- Patterns of Enterprise Application Architecture
+
+3- Refactoring to Patterns
+
+4- Continuous Integration
+
+5- Continuous Delivery
+
+Link for all : https://martinfowler.com/books/
+Reference Article : https://www.facebook.com/mohamed.hamedhammad/posts/4783645665041279
+
+6- NoSQL Distilled
+
+Link : 
+https://bigdata-ir.com/wp-content/uploads/2017/04/NoSQL-Distilled.pdf
+
+Reference Article :
+https://www.facebook.com/mohamed.hamedhammad/posts/2485104038228798
+
+### Robert Martin
+
+1- clean code مهم 
+
+Link : https://github.com/ontiyonke/book-1/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf
+
+Reference Article/s : 
+- https://www.facebook.com/mohamed.hamedhammad/posts/3933517646720756
+
+- https://www.facebook.com/mohamed.hamedhammad/posts/5061941820544994
+
+- https://www.facebook.com/mohamed.hamedhammad/posts/3586703234735534
+
+- https://www.facebook.com/mohamed.hamedhammad/posts/5195362743869567
+
+2- Refactoring to patterns مهم برضه 
+
+Link : https://github.com/abhinavkorpal/awesome-computer-science-EBook/blob/master/DesignPatterns/Refactoring%20To%20Patterns%20-%20Joshua%20Kerievsky.pdf
+
+Reference Article/s : https://www.facebook.com/mohamed.hamedhammad/posts/4565269806878867
 
 
