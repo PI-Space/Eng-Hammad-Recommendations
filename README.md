@@ -1,5 +1,5 @@
 # Eng-Hammad-Recommendations
-The repo cantains books, toturials and resources based on the recommendations of eng Mohammed Hammad, it's still under construction and will keep updating as more useful recommendations come through..
+The repo contains books, tutorials and resources based on the recommendations of eng Mohammed Hammad, it's still under construction and will keep updating as more useful recommendations come through..
 ## Computational Thinking and Algorithms
 
 1- MIT Tutorials (entry level)
@@ -17,11 +17,11 @@ Link : https://link.springer.com/book/10.1007/978-3-642-15328-0
 ## Databases
 
 #### He recommended CMU courses, here are the latest versions of the course 
-1- 15-445/645 Intro to Database Systems  (Fall 2019) (Toturials) 
+1- 15-445/645 Intro to Database Systems  (Fall 2019) (Tutorials) 
 
 Link : https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi 
 
-2- 15-721 Advanced Database Systems (Spring 2020)(Toturials) 
+2- 15-721 Advanced Database Systems (Spring 2020)(Tutorials) 
 البشمهندس هيشرحها في قناته قريب ان شاء الله 
 
 Link : https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O
@@ -35,9 +35,15 @@ Link : https://www.db-book.com/db7/index.html
 
 Link : https://link.springer.com/book/10.1007/978-1-4471-5601-7
 
-5- Designing Data-Intensive Applications (book) (Graudate level)
+5- Designing Data-Intensive Applications (book) (Graduate level)
 
 Link : https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf
+
+6- seven databases in seven weeks (to study differences among different databases)
+
+Link : http://barbra-coco.dyndns.org/yuri/seven/seven2.pdf
+
+Reference Article : https://bit.ly/2S2FOlV 
 
 ## SQL Server
 
@@ -85,7 +91,7 @@ Link: http://sd.blackball.lv/library/CLR_via_CSharp_(Jeffrey_Richter_4th_Edition
 
 ## Operating System
 #### He recommended Berkeley courses, here is the latest version of the course 
-1-  CS 162, 2019, UC Berkeley (Toturials) "All levels"
+1-  CS 162, 2019, UC Berkeley (Tutorials) "All levels"
 
 Videos Link: https://www.bilibili.com/video/BV1e7411B7Ja?p=3
 
@@ -101,17 +107,17 @@ Link: https://pages.cs.wisc.edu/~remzi/OSTEP/
 
 ##  Deep Learning in Life Sciences 
 
-1- MIT Deep Learning in Life Sciences 6.874 Spring 2020 (Toturials)
+1- MIT Deep Learning in Life Sciences 6.874 Spring 2020 (Tutorials)
 
 Videos Link: https://www.youtube.com/playlistlist=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB
 
-Resourses Link:
+Resources Link:
 https://mit6874.github.io/?fbclid=IwAR1Kg-k_QVFUDhSD4BzmQCKuW7MObuq5JUSj-VSmDALOF86FIn8-JZO2kEY
 
 
 ## Data Science Entry Course 
 
-1- MITx 6.00.2x, Introduction to Computational Thinking and Data Science (Toturials)
+1- MITx 6.00.2x, Introduction to Computational Thinking and Data Science (Tutorials)
 
 Link: https://courses.edx.org/.../course-v1:MITx+6.00.../course/
 
