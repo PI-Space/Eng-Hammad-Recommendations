@@ -24,13 +24,7 @@ The repo contains books, tutorials and resources based on the recommendations of
 
 4- <a href="https://link.springer.com/book/10.1007/978-1-4471-5601-7" target="_blank">Concise Guide to Databases A Practical Introduction (book)</a>
 
-<<<<<<< HEAD
 5- <a href="https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf" target="_blank" > Designing Data-Intensive Applications (book) (Graduate level)</a>
-=======
-Link : https://link.springer.com/book/10.1007/978-1-4471-5601-7
-
-5- <a href="https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf" target="_blank" > Designing Data-Intensive Applications (book) (Graudate level)</a>
->>>>>>> 1dbdb6b88c443781cfb26d612f8bb2874d53c41d
 
 ## SQL Server
 
@@ -85,10 +79,11 @@ Link : https://link.springer.com/book/10.1007/978-1-4471-5601-7
 <a href="https://mit6874.github.io/?fbclid=IwAR1Kg-k_QVFUDhSD4BzmQCKuW7MObuq5JUSj-VSmDALOF86FIn8-JZO2kEY
 " target="_blank"> Resources Link </a>
 
-<<<<<<< HEAD
 
 ## Data Science Entry Course
 
 1-<a href="https://courses.edx.org/.../course-v1:MITx+6.00.../course/" target="_blank"> MITx 6.00.2x, Introduction to Computational Thinking and Data Science (Tutorials) </a>
-=======
->>>>>>> 1dbdb6b88c443781cfb26d612f8bb2874d53c41d
+
+## other books Eng Mohamed referenced
+
+1- <a href="http://libgen.gs/get.php?md5=1ccb8da43945e52e3835007e053677c5&key=UWEPRE3S9Y7A5F5Q&mirr=1" target="_blank"> [For Dummies] Deborah J. Rumsey - Probability For Dummies (2006, Wiley)</a>
