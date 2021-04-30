@@ -87,3 +87,8 @@ The repo contains books, tutorials and resources based on the recommendations of
 ## other books Eng Mohamed referenced
 
 1- <a href="http://libgen.gs/get.php?md5=1ccb8da43945e52e3835007e053677c5&key=UWEPRE3S9Y7A5F5Q&mirr=1" target="_blank"> [For Dummies] Deborah J. Rumsey - Probability For Dummies (2006, Wiley)</a>
+
+
+### Eng. Mohamed Hammad Posts
+
+<a href="https://github.com/Fighteros/Eng-Mohamed-Hammad-Posts" target="_blank"> This Repo is for posts</a>
