@@ -35,9 +35,7 @@ Link : https://www.db-book.com/db7/index.html
 
 Link : https://link.springer.com/book/10.1007/978-1-4471-5601-7
 
-5- Designing Data-Intensive Applications (book) (Graudate level)
-
-Link : https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf
+5- <a href="https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf" target="_blank" > Designing Data-Intensive Applications (book) (Graudate level)</a>
 
 ## SQL Server
 
@@ -114,7 +112,5 @@ https://mit6874.github.io/?fbclid=IwAR1Kg-k_QVFUDhSD4BzmQCKuW7MObuq5JUSj-VSmDALO
 1- MITx 6.00.2x, Introduction to Computational Thinking and Data Science (Toturials)
 
 Link: https://courses.edx.org/.../course-v1:MITx+6.00.../course/
-
-
 
 
