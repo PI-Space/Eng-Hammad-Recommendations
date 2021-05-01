@@ -152,13 +152,10 @@ Reference Article:<a href="https://www.facebook.com/mohamed.hamedhammad/posts/47
 
 Reference Article/s | links
 --- | ---
- Article 1 |  [link](https://www.facebook.com/mohamed.hamedhammad/posts/3933517646720756)
-
- Article 2  |  [link](https://www.facebook.com/mohamed.hamedhammad/posts/5061941820544994)
-
- Article 3 | [link](https://www.facebook.com/mohamed.hamedhammad/posts/3586703234735534)
-
- Article 4  |  [link](https://www.facebook.com/mohamed.hamedhammad/posts/5195362743869567)
+Article 1 |  [link](https://www.facebook.com/mohamed.hamedhammad/posts/3933517646720756)
+Article 2 |  [link](https://www.facebook.com/mohamed.hamedhammad/posts/5061941820544994)
+Article 3 | [link](https://www.facebook.com/mohamed.hamedhammad/posts/3586703234735534)
+Article 4 |  [link](https://www.facebook.com/mohamed.hamedhammad/posts/5195362743869567)
 
 2- Refactoring to patterns مهم برضه
 
@@ -172,9 +169,7 @@ Reference Article/s | links
 name | link
 --- | ---
 1- Domain-Driven Design Distilled (entry ) | [link](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
-
 2- implementing domain driven design | [Link](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
-
 3- domain driven design, eric evans | [Link](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 
 
