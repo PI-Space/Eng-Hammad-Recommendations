@@ -124,7 +124,7 @@ https://www.facebook.com/profile/100001876777351/search/?q=c%23%20
 ## Data Science Entry Course
 
 
-1-<a href="https://courses.edx.org/.../course-v1:MITx+6.00.../course/" target="_blank"> MITx 6.00.2x, Introduction to Computational Thinking and Data Science (Tutorials) </a>
+1-<a href="https://www.edx.org/course/introduction-to-computational-thinking-and-data-4" target="_blank"> MITx 6.00.2x, Introduction to Computational Thinking and Data Science (Tutorials) </a>
 
 
 ## Build High Quality Software سوفت وير محترم يعني :)
