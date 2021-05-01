@@ -1,6 +1,8 @@
 # Eng. Hammad-Recommendations
 The repo contains books, tutorials and resources based on the recommendations of Eng. Mohammed Hammad, it's still under construction and will keep updating as more useful recommendations come through..
 
+<p style="color: red"> Notice </p><p> any Facebook links must be followed only if you are signed in else articles won't show up </p>
+
 ## Computational Thinking and Algorithms
 
 1- <a href="https://m.youtube.com/watch?v=Q_itdXI3YeE&list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d&index=1" target="_blank">MIT Tutorials (entry level)</a>
@@ -30,11 +32,11 @@ The repo contains books, tutorials and resources based on the recommendations of
 5- <a href="https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf" target="_blank" > Designing Data-Intensive Applications (book) (Graduate level)</a>
 
 
-6- seven databases in seven weeks (to study differences among different databases)
+6- <a href="http://barbra-coco.dyndns.org/yuri/seven/seven2.pdf">seven databases in seven weeks (to study differences among different databases)</a>
 
-Link : http://barbra-coco.dyndns.org/yuri/seven/seven2.pdf
 
-Reference Article : https://bit.ly/2S2FOlV 
+
+<a href="https://bit.ly/2S2FOlV"> Reference Article </a>
 
 ## SQL Server
 
@@ -61,9 +63,7 @@ Reference Article : https://bit.ly/2S2FOlV
 
 2- <a href=" https://doc.lagout.org/programmation/Functional%20Programming/Functional%20Programming%20For%20The%20Real%20World.pdf" target="_blank"> Functional Programming For The Real World (Book) </a>
 
-3- Category theory for programmers by bartosz milewisky
-
-Link : https://github.com/hmemcpy/milewski-ctfp-pdf
+3- <a href="https://github.com/hmemcpy/milewski-ctfp-pdf"> Category theory for programmers by bartosz milewisky </a>
 
 
 ## .NET
@@ -74,29 +74,22 @@ Link : https://github.com/hmemcpy/milewski-ctfp-pdf
 
 2- <a href="http://sd.blackball.lv/library/CLR_via_CSharp_(Jeffrey_Richter_4th_Edition).pdf" target="_blank"> CLR via C#  (book) </a>
 
-3- C# 9.0 in a Nutshell (book)
+3- <a href="http://scienceadvantage.net/wp-content/uploads/2020/09/C-8.0-In-A-Nutshell-The-Definitive-Reference-02.06.2020.-.pdf"> C# 9.0 in a Nutshell (book)</a>
 
-Link : http://scienceadvantage.net/wp-content/uploads/2020/09/C-8.0-In-A-Nutshell-The-Definitive-Reference-02.06.2020.-.pdf
+4- <a href="https://www.manning.com/books/c-sharp-in-depth-fourth-edition"> C# in Depth (book)</a>
 
-4- C# in Depth (book)
+5- <a href="https://www.youtube.com/channel/UCa-Qgwt5VxN0iP3q6reHN6g"> Gavin Lon channel on YouTube (Tutorials)</a>
 
-Link : https://www.manning.com/books/c-sharp-in-depth-fourth-edition
-
-5- Gavin Lon channel on YouTube (Tutorials)
-
-Channel Link : https://www.youtube.com/channel/UCa-Qgwt5VxN0iP3q6reHN6g
-
-Link for beginner c# in the same channel : https://www.youtube.com/playlist?list=PL4LFuHwItvKbneXxSutjeyz6i1w32K6di
+<a href="https://www.youtube.com/playlist?list=PL4LFuHwItvKbneXxSutjeyz6i1w32K6di">Link for beginner c# in the same channel </a>
 
 
-Link for Advanced c# in the same channel : https://www.youtube.com/playlist?list=PL4LFuHwItvKaOi-bN1E2WUVyZbuRhVokL
+<a href="https://www.youtube.com/playlist?list=PL4LFuHwItvKaOi-bN1E2WUVyZbuRhVokL" >Link for Advanced c# in the same channel </a>
 
 Reference Articles:
 
-1- https://www.facebook.com/mohamed.hamedhammad/posts/5345089308896909
+1- <a href="https://www.facebook.com/mohamed.hamedhammad/posts/5345089308896909">Article on facebook </a>
 
-2- explore more posts here using this filter (you must sign in facebook )
-https://www.facebook.com/profile/100001876777351/search/?q=c%23%20
+2- explore more posts here using this filter (you must sign in facebook ) <a href="https://www.facebook.com/profile/100001876777351/search/?q=c%23%20"> link </a>
 
 ## Operating System
 
@@ -140,54 +133,44 @@ https://www.facebook.com/profile/100001876777351/search/?q=c%23%20
 
 5- Continuous Delivery
 
-Link for all : https://martinfowler.com/books/
+<a href=" https://martinfowler.com/books/"> Link for all</a>
 
-Reference Article : https://www.facebook.com/mohamed.hamedhammad/posts/4783645665041279
+Reference Article:<a href="https://www.facebook.com/mohamed.hamedhammad/posts/4783645665041279"> Link</a>
 
 6- NoSQL Distilled
 
-Link : 
-https://bigdata-ir.com/wp-content/uploads/2017/04/NoSQL-Distilled.pdf
+<a href="https://bigdata-ir.com/wp-content/uploads/2017/04/NoSQL-Distilled.pdf">Link</a>
 
-Reference Article :
-https://www.facebook.com/mohamed.hamedhammad/posts/2485104038228798
+<a href="https://www.facebook.com/mohamed.hamedhammad/posts/2485104038228798"> Reference Article </a>
+
 
 ### Robert Martin
 
-1- clean code مهم 
+1- clean code مهم
 
-Link : https://github.com/ontiyonke/book-1/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf
+<a href="https://github.com/ontiyonke/book-1/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf"> Link </a>
 
-Reference Article/s : 
-- https://www.facebook.com/mohamed.hamedhammad/posts/3933517646720756
+Reference Article/s | links
+--- | ---
+Article 1 |  [link](https://www.facebook.com/mohamed.hamedhammad/posts/3933517646720756)
+Article 2 |  [link](https://www.facebook.com/mohamed.hamedhammad/posts/5061941820544994)
+Article 3 | [link](https://www.facebook.com/mohamed.hamedhammad/posts/3586703234735534)
+Article 4 |  [link](https://www.facebook.com/mohamed.hamedhammad/posts/5195362743869567)
 
-- https://www.facebook.com/mohamed.hamedhammad/posts/5061941820544994
+2- Refactoring to patterns مهم برضه
 
-- https://www.facebook.com/mohamed.hamedhammad/posts/3586703234735534
+- [Link](https://github.com/abhinavkorpal/awesome-computer-science-EBook/blob/master/DesignPatterns/Refactoring%20To%20Patterns%20-%20Joshua%20Kerievsky.pdf)
 
-- https://www.facebook.com/mohamed.hamedhammad/posts/5195362743869567
-
-2- Refactoring to patterns مهم برضه 
-
-Link : https://github.com/abhinavkorpal/awesome-computer-science-EBook/blob/master/DesignPatterns/Refactoring%20To%20Patterns%20-%20Joshua%20Kerievsky.pdf
-
-Reference Article/s : https://www.facebook.com/mohamed.hamedhammad/posts/4565269806878867
+- [Reference Article/s](https://www.facebook.com/mohamed.hamedhammad/posts/4565269806878867)
 
 
 ## Domain Driven Design
 
-1- Domain-Driven Design Distilled (entry )
-
-Link : https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420
-
-2- implementing domain driven design 
-
-Link : https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577
-
-3- domain driven design, eric evans
-
-
-Link : https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215
+name | link
+--- | ---
+1- Domain-Driven Design Distilled (entry ) | [link](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
+2- implementing domain driven design | [Link](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
+3- domain driven design, eric evans | [Link](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 
 
 ## Probability and Statistics
@@ -198,6 +181,3 @@ Link : https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/
 ### Eng. Mohamed Hammad Posts
 
 <a href="https://github.com/Fighteros/Eng-Mohamed-Hammad-Posts" target="_blank"> This Repo is for posts</a>
-
-
-
