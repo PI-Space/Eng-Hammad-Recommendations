@@ -181,3 +181,26 @@ name | link
 ### Eng. Mohamed Hammad Posts
 
 <a href="https://github.com/Fighteros/Eng-Mohamed-Hammad-Posts" target="_blank"> This Repo is for posts</a>
+
+
+### All books that concern on Backend mainly
+
+name | links
+--- | ---
+Groking algorithms | mentioned Above
+Algorithms Unplugged | mentioned Above
+Clean Code  | mentioned Above
+Head First Object Oriented Programming | <link would be provided>
+Head First Design Patterns | <link would be provided>
+Agile Principles, Patterns, and Practices in C#  | <link would be provided>
+Domain Driven Design Tackling complexity in the heart of software  | <link would be provided>
+Implementing Domain driven Design  | <link would be provided>
+Martin fowler books(Patterns of Enterprise Application Architecture, Refactoring)  | <link would be provided>
+Refactoring to patterns  | <link would be provided>
+TSQL Fundamentals  | <link would be provided>
+Designing Data intensive Applications  | <link would be provided>
+professional SQL server 2016 internals and  Troubleshooting  | <link would be provided>
+NoSQL Distilled  | <link would be provided>
+Reactive Design Patterns   | <link would be provided>
+
+##### Notice You should choose a book in Your Field covers parallel programming.
