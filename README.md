@@ -1,9 +1,9 @@
 # Eng. Hammad-Recommendations
 
-The repo contains books, tutorials and resources based on the recommendations of Eng. Mohammed Hammad, it's still under construction and will keep updating as more useful recommendations come through..
+> **The repo contains books, tutorials and resources based on the recommendations of Eng. Mohammed Hammad, it's still under construction and will keep updating as more useful recommendations come through..**
 
-**Notice**
-any Facebook links must be followed only if you are signed in else articles won't show up
+***Notice***
+> **Any Facebook links must be followed only if you are signed in, else articles won't show up**
 
 ## Computational Thinking and Algorithms
 
@@ -74,7 +74,7 @@ Reference Articles:
 
 1- [Article on facebook](https://www.facebook.com/mohamed.hamedhammad/posts/5345089308896909)
 
-2- explore more posts here using [this filter](https://www.facebook.com/profile/100001876777351/search/?q=c%23%20) (you must sign in facebook )
+2- explore more posts here using [this filter](https://www.facebook.com/profile/100001876777351/search/?q=c%23%20)
 
 ## Operating System
 
@@ -154,3 +154,4 @@ Reference Articles
 ### Eng. Mohamed Hammad Posts
 
 [This Repo is for posts](https://github.com/Fighteros/Eng-Mohamed-Hammad-Posts)
+
