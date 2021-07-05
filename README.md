@@ -144,7 +144,9 @@ Reference Articles
 ## Domain Driven Design
 
 1- [Domain-Driven Design Distilled (entry)](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
+
 2- [implementing domain driven design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
+
 3- [domain driven design, eric evans](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 
 ## Probability and Statistics
