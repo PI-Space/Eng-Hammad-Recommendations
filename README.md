@@ -60,7 +60,7 @@
 
 2- [CLR via C# (book)](http://sd.blackball.lv/library/CLR_via_CSharp_(Jeffrey_Richter_4th_Edition).pdf)
 
-3- [C# 9.0 in a Nutshell (book)](http://scienceadvantage.net/wp-content/uploads/2020/09/C-8.0-In-A-Nutshell-The-Definitive-Reference-02.06.2020.-.pdf)
+3- [C# 8.0 in a Nutshell (book)](http://scienceadvantage.net/wp-content/uploads/2020/09/C-8.0-In-A-Nutshell-The-Definitive-Reference-02.06.2020.-.pdf)
 
 4- [C# in Depth (book)](https://www.manning.com/books/c-sharp-in-depth-fourth-edition)
 
