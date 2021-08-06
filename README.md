@@ -90,6 +90,11 @@ Reference Articles:
 
 3- [OPERATING SYSTEMS THREE EASY PIECES (Book) Entry](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
+## Distributed Systems
+
+[Distributed Systems University of Cambridge](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+
+
 ## Deep Learning in Life Sciences
 
 1- MIT Deep Learning in Life Sciences 6.874 Spring 2020 (Tutorials)
