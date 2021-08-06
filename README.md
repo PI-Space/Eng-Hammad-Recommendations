@@ -46,6 +46,12 @@
 
 2- [CPSC 322: Introduction to Artificial Intelligence (UBC)](https://www.youtube.com/playlist?list=PLDPnGbm0sUmpzvcGvktbz446SLdFbfZVU)
 
+## Neural Networks and Deep Learning
+
+1- [Neural Networks and Deep Learning By Michael Nielsen / Dec 2019](http://neuralnetworksanddeeplearning.com/index.html)
+
+2- Advanced Only: [Deep Learning Book by Aaron Courville, Ian Goodfellow](https://www.deeplearningbook.org/)
+
 ## Functional Programming
 
 [Don't Forget the playlist](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f)
