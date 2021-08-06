@@ -44,6 +44,8 @@
 
 1- [artificial intelligence a modern approach (Book)](https://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf)
 
+2- [CPSC 322: Introduction to Artificial Intelligence (UBC)](https://www.youtube.com/playlist?list=PLDPnGbm0sUmpzvcGvktbz446SLdFbfZVU)
+
 ## Functional Programming
 
 [Don't Forget the playlist](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f)
