@@ -7,26 +7,26 @@
 
 ## Computational Thinking and Algorithms
 
-1- [MIT Tutorials (entry level)](https://m.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)
+1- [MIT Tutorials - Beginner](https://m.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)
 
-2- [Grokking Algorithms (book) (entry level)](https://bit.ly/3xl71jO)
+2- [Grokking Algorithms (book) - Beginner](https://bit.ly/3xl71jO)
 
-3- [Algorithms Unplugged (book) (More Advanced)](https://link.springer.com/book/10.1007/978-3-642-15328-0)
+3- [Algorithms Unplugged (book) - Advanced](https://link.springer.com/book/10.1007/978-3-642-15328-0)
 
 ## Databases
 
 ## He recommended CMU courses, here are the latest versions of the course
 
-1- [15-445/645 Intro to Database Systems  (Fall 2019) (Tutorials)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
+1- [15-445/645 Intro to Database Systems  (Fall 2019) (Tutorials) - Beginner](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
 
-2- [15-721 Advanced Database Systems (Spring 2020)(Tutorials)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
+2- [15-721 Advanced Database Systems (Spring 2020)(Tutorials)  - Advanced](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
 البشمهندس هيشرحها في قناته قريب ان شاء الله
 
 3- [The text book of the previous course](https://www.db-book.com/db7/index.html)
 
-4- [Concise Guide to Databases A Practical Introduction (book)](https://link.springer.com/book/10.1007/978-1-4471-5601-7)
+4- [Concise Guide to Databases A Practical Introduction (book) - Beginner](https://link.springer.com/book/10.1007/978-1-4471-5601-7)
 
-5- [Designing Data-Intensive Applications (book) (Graduate level)](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
+5- [Designing Data-Intensive Applications (book) - Graduate level)](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
 
 6- [seven databases in seven weeks (to study differences among different databases)](http://barbra-coco.dyndns.org/yuri/seven/seven2.pdf)
 
@@ -50,9 +50,9 @@
 
 ## Neural Networks and Deep Learning
 
-1- [Neural Networks and Deep Learning By Michael Nielsen / Dec 2019](http://neuralnetworksanddeeplearning.com/index.html)
+1- [Neural Networks and Deep Learning By Michael Nielsen / Dec 2019 - Beginner](http://neuralnetworksanddeeplearning.com/index.html)
 
-2- Advanced Only: [Deep Learning Book by Aaron Courville, Ian Goodfellow](https://www.deeplearningbook.org/)
+2- [Deep Learning Book by Aaron Courville, Ian Goodfellow - Advanced](https://www.deeplearningbook.org/)
 
 ## Functional Programming
 
