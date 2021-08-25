@@ -66,19 +66,22 @@
 
 ## .NET
 
-1- [Concurrency in .NET- Manning Publications (book)](https://itbook.store/files/9781617292996/chapter7.pdf)
+1- [C# 9.0 in a Nutshell (book) - Beginner](https://drive.google.com/file/d/1TW0LeHM4VlzToVxx6wryNYn2uBjUTzm6/view?usp=sharing)
 
-2- [CLR via C# (book)](http://sd.blackball.lv/library/CLR_via_CSharp_(Jeffrey_Richter_4th_Edition).pdf)
-
-3- [C# 9.0 in a Nutshell (book)](https://drive.google.com/file/d/1TW0LeHM4VlzToVxx6wryNYn2uBjUTzm6/view?usp=sharing)
-
-4- [C# in Depth (book)](https://www.manning.com/books/c-sharp-in-depth-fourth-edition)
-
-5- [Gavin Lon channel on YouTube (Tutorials)](https://www.youtube.com/channel/UCa-Qgwt5VxN0iP3q6reHN6g)
+2- [Gavin Lon channel on YouTube (Tutorials)](https://www.youtube.com/channel/UCa-Qgwt5VxN0iP3q6reHN6g)
 
 [Beginner](https://www.youtube.com/playlist?list=PL4LFuHwItvKbneXxSutjeyz6i1w32K6di)
 
 [Advanced](https://www.youtube.com/playlist?list=PL4LFuHwItvKaOi-bN1E2WUVyZbuRhVokL)
+
+
+2- [Concurrency in .NET- Manning Publications (book) - Advanced](https://itbook.store/files/9781617292996/chapter7.pdf)
+
+3- [CLR via C# (book) - Advanced](http://sd.blackball.lv/library/CLR_via_CSharp_(Jeffrey_Richter_4th_Edition).pdf)
+
+4- [C# in Depth (book) - Advanced](https://www.manning.com/books/c-sharp-in-depth-fourth-edition)
+
+
 
 Reference Articles:
 
@@ -166,7 +169,7 @@ Reference Articles
 
 ## Probability and Statistics
 
-1- [[For Dummies] Deborah J. Rumsey - Probability For Dummies (2006, Wiley)](http://libgen.gs/get.php?md5=1ccb8da43945e52e3835007e053677c5&key=UWEPRE3S9Y7A5F5Q&mirr=1)
+1- [[For Dummies] Deborah J. Rumsey - Probability For Dummies (2006, Wiley) - Beginner](http://libgen.gs/get.php?md5=1ccb8da43945e52e3835007e053677c5&key=UWEPRE3S9Y7A5F5Q&mirr=1)
 
 ### Eng. Mohamed Hammad Posts
 
