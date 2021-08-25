@@ -56,7 +56,7 @@
 
 ## Functional Programming
 
-[Don't Forget the playlist](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f)
+[Eng. Mohammed Hammad Playlist](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f)
 
 1- [Functional Thinking: Paradigm Over Syntax (Book)](https://oiipdf.com/download/2680)
 
