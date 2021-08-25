@@ -70,15 +70,15 @@
 
 2- [CLR via C# (book)](http://sd.blackball.lv/library/CLR_via_CSharp_(Jeffrey_Richter_4th_Edition).pdf)
 
-3- [C# 8.0 in a Nutshell (book)](http://scienceadvantage.net/wp-content/uploads/2020/09/C-8.0-In-A-Nutshell-The-Definitive-Reference-02.06.2020.-.pdf)
+3- [C# 9.0 in a Nutshell (book)](https://drive.google.com/file/d/1TW0LeHM4VlzToVxx6wryNYn2uBjUTzm6/view?usp=sharing)
 
 4- [C# in Depth (book)](https://www.manning.com/books/c-sharp-in-depth-fourth-edition)
 
 5- [Gavin Lon channel on YouTube (Tutorials)](https://www.youtube.com/channel/UCa-Qgwt5VxN0iP3q6reHN6g)
 
-[Link for beginner c# in the same channel](https://www.youtube.com/playlist?list=PL4LFuHwItvKbneXxSutjeyz6i1w32K6di)
+[Beginner](https://www.youtube.com/playlist?list=PL4LFuHwItvKbneXxSutjeyz6i1w32K6di)
 
-[Link for Advanced c# in the same channel](https://www.youtube.com/playlist?list=PL4LFuHwItvKaOi-bN1E2WUVyZbuRhVokL)
+[Advanced](https://www.youtube.com/playlist?list=PL4LFuHwItvKaOi-bN1E2WUVyZbuRhVokL)
 
 Reference Articles:
 
@@ -90,15 +90,15 @@ Reference Articles:
 
 ### He recommended Berkeley courses, here is the latest version of the course
 
-1- CS 162, 2019, UC Berkeley (Tutorials) All levels
+1- CS 162, 2019, UC Berkeley (Tutorials) - Beginner
 
 [Videos](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
 
 [Resources](https://inst.eecs.berkeley.edu/~cs162/sp21/)
 
-2- [Introduction to Operating System Design and Implementation (Book) Entry](https://www.springer.com/gp/book/9781846288425)
+2- [Introduction to Operating System Design and Implementation (Book) - Beginner](https://www.springer.com/gp/book/9781846288425)
 
-3- [OPERATING SYSTEMS THREE EASY PIECES (Book) Entry](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+3- [OPERATING SYSTEMS THREE EASY PIECES (Book) - Beginner](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ## Distributed Systems
 
