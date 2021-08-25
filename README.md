@@ -36,9 +36,11 @@
 
 1- [First read those articles](https://www.facebook.com/mohamed.hamedhammad/posts/2495377697201432)
 
-2- [SQL Server Concurrency Locking, Blocking and Row Versioning  (Book)](https://www.red-gate.com/library/sql-server-concurrency-locking-blocking-and-row-versioning)
+2- [TSQL Fundamentals (Book) - Beginner ](https://drive.google.com/file/d/1_Ewc1Ike-0OBcR-Bx47mx7-xLM4RJE0W/view?usp=sharing)
 
-3- [Professional SQL Server 2012 Internals and Troubleshooting (Book)](http://2.droppdf.com/files/uXeQV/professional-sql-server-2012-internals-and-troubleshooting.pdf)
+3- [SQL Server Concurrency Locking, Blocking and Row Versioning (Book) - Advanced](https://www.red-gate.com/library/sql-server-concurrency-locking-blocking-and-row-versioning)
+
+4- [Professional SQL Server 2012 Internals and Troubleshooting (Book) - Advanced](http://2.droppdf.com/files/uXeQV/professional-sql-server-2012-internals-and-troubleshooting.pdf)
 
 ## Artificial intelligence
 
