@@ -54,6 +54,7 @@
 
 2- [Deep Learning Book by Aaron Courville, Ian Goodfellow - Advanced](https://www.deeplearningbook.org/)
 
+3- [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://m.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) 
 ## Functional Programming
 
 [Eng. Mohammed Hammad Playlist](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f)
