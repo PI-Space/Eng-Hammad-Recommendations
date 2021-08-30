@@ -55,6 +55,31 @@
 2- [Deep Learning Book by Aaron Courville, Ian Goodfellow - Advanced](https://www.deeplearningbook.org/)
 
 3- [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://m.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) 
+
+## Probabilistic Machine Learning
+
+> **The Resources in this section is ordered:**
+
+[First Check The Article](https://www.facebook.com/mohamed.hamedhammad/posts/6005266736212493)
+
+[Then Check Eng. Hammad Lecture](https://www.youtube.com/watch?v=zo0pC3GLyes)
+
+Now Check the Resources Gathered in ORDER:
+
+
+1- [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/watch?v=1uW3qMFA9Ho)
+
+2- [COMPSCI 188 - 2018-08-23](https://www.youtube.com/watch?v=16Dir4QqCUg)
+
+3- [Lecture 11 to 15 only From Stanford CS221](https://www.youtube.com/watch?v=Yo-xat4cn8M)
+
+4- [Daphne Koller - Graphical Models](https://www.coursera.org/instructor/koller)
+
+5- [Probabilistic Machine Learning kevin Murphy BOOK](https://github.com/rohinarora/EECE5644-Machine_Learning/blob/master/Kevin%20Murphy%20-%20Machine%20Learning%20Probabilistic%20Perspective.pdf)
+
+6- Gaussian Processes for Machine Learning, MIT Press
+
+
 ## Functional Programming
 
 [Eng. Mohammed Hammad Playlist](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f)
