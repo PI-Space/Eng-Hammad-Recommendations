@@ -32,15 +32,7 @@
 
 [Reference Article](https://bit.ly/2S2FOlV)
 
-## SQL Server
 
-1- [First read those articles](https://www.facebook.com/mohamed.hamedhammad/posts/2495377697201432)
-
-2- [TSQL Fundamentals (Book) - Beginner ](https://drive.google.com/file/d/1_Ewc1Ike-0OBcR-Bx47mx7-xLM4RJE0W/view?usp=sharing)
-
-3- [SQL Server Concurrency Locking, Blocking and Row Versioning (Book) - Advanced](https://www.red-gate.com/library/sql-server-concurrency-locking-blocking-and-row-versioning)
-
-4- [Professional SQL Server 2012 Internals and Troubleshooting (Book) - Advanced](http://2.droppdf.com/files/uXeQV/professional-sql-server-2012-internals-and-troubleshooting.pdf)
 
 ## Artificial intelligence
 
@@ -90,7 +82,11 @@ Now Check the Resources Gathered in ORDER:
 
 3- [Category theory for programmers by bartosz milewisky](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
-## .NET
+## Microsoft Technologies
+
+[C# 8.0 and .NET Core 3.0 – Modern Cross-Platform Development Build applications with C# NET Core, Entity Framework](https://sd.blackball.lv/books/18710)
+
+### .NET
 
 1- [C# 9.0 in a Nutshell (book) - Beginner](https://drive.google.com/file/d/1TW0LeHM4VlzToVxx6wryNYn2uBjUTzm6/view?usp=sharing)
 
@@ -114,6 +110,16 @@ Reference Articles:
 1- [Article on facebook](https://www.facebook.com/mohamed.hamedhammad/posts/5345089308896909)
 
 2- explore more posts here using [this filter](https://www.facebook.com/profile/100001876777351/search/?q=c%23%20)
+
+### SQL Server
+
+1- [First read those articles](https://www.facebook.com/mohamed.hamedhammad/posts/2495377697201432)
+
+2- [TSQL Fundamentals (Book) - Beginner ](https://drive.google.com/file/d/1_Ewc1Ike-0OBcR-Bx47mx7-xLM4RJE0W/view?usp=sharing)
+
+3- [SQL Server Concurrency Locking, Blocking and Row Versioning (Book) - Advanced](https://www.red-gate.com/library/sql-server-concurrency-locking-blocking-and-row-versioning)
+
+4- [Professional SQL Server 2012 Internals and Troubleshooting (Book) - Advanced](http://2.droppdf.com/files/uXeQV/professional-sql-server-2012-internals-and-troubleshooting.pdf)
 
 ## Operating System
 
