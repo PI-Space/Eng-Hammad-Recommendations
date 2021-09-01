@@ -15,8 +15,6 @@
 
 ## Databases
 
-## He recommended CMU courses, here are the latest versions of the course
-
 1- [15-445/645 Intro to Database Systems  (Fall 2019) (Tutorials) - Beginner](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
 
 2- [15-721 Advanced Database Systems (Spring 2020)(Tutorials)  - Advanced](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
