@@ -83,8 +83,11 @@ Now Check the Resources Gathered in ORDER:
 3- [Category theory for programmers by bartosz milewisky](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
 ## Microsoft Technologies
+Starter Book:
 
 [C# 8.0 and .NET Core 3.0 – Modern Cross-Platform Development Build applications with C# NET Core, Entity Framework](https://sd.blackball.lv/books/18710)
+
+[Refrenece Article](https://www.facebook.com/mohamed.hamedhammad/posts/4887734361299075)
 
 ### .NET
 
