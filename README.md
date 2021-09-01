@@ -18,7 +18,6 @@
 1- [CMU 15-445/645 Intro to Database Systems  (Fall 2019) (Tutorials) - Beginner](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
 
 2- [CMU 15-721 Advanced Database Systems (Spring 2020)(Tutorials)  - Advanced](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
-البشمهندس هيشرحها في قناته قريب ان شاء الله
 
 3- [The text book of the previous course](https://www.db-book.com/db7/index.html)
 
@@ -153,7 +152,7 @@ Reference Articles:
 
 1- [MITx 6.00.2x, Introduction to Computational Thinking and Data Science (Tutorials)](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
 
-## Build High Quality Software سوفت وير محترم يعني :)
+## Build High Quality Software 
 
 ### Martin Fowler books
 
