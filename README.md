@@ -47,7 +47,7 @@
 
 ## Probabilistic Machine Learning
 
-> **The Resources in this section is ordered:**
+> **The Resources in this section are ordered:**
 
 [First Check The Article](https://www.facebook.com/mohamed.hamedhammad/posts/6005266736212493)
 
