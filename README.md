@@ -79,6 +79,12 @@ Now Check the Resources Gathered in ORDER:
 
 3- [Category theory for programmers by bartosz milewisky](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
+## Object Oriented Programming
+
+1- [Head First Object Oriented Analysis and Design](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
+
+2- [Head First Design Pattern 2nd Edition](https://drive.google.com/file/d/1BmXIGt6CaMig1qXiqETQI5y3wsmh4N1z/view?usp=sharing)
+
 ## Microsoft Technologies
 Starter Book:
 
