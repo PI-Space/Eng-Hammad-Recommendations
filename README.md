@@ -24,7 +24,7 @@
 
 ## Introduction to Programming
 
-### Courses:
+#### Courses:
 - [CS50](https://www.youtube.com/watch?v=4zy0z5W0-w4&list=PLhQjrBD2T380Xnv_v683p6UjiKJZe13ki)
 
 ## Programming Paradigms
@@ -144,17 +144,17 @@ Reference Articles
 
 
 ## Data Science
-### Books:
+#### Books:
 - https://jakevdp.github.io/PythonDataScienceHandbook/
 
-### Courses:
+#### Courses:
 - [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
 - [MITx 6.00.2x, Introduction to Computational Thinking and Data Science (Tutorials)](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
 
 ## Artificial intelligence
-### Books:
+#### Books:
 - [artificial intelligence a modern approach (Book)](https://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf)
-### Courses:
+#### Courses:
 - [CPSC 322: Introduction to Artificial Intelligence (UBC)](https://www.youtube.com/playlist?list=PLDPnGbm0sUmpzvcGvktbz446SLdFbfZVU)
 
 
@@ -190,12 +190,12 @@ Now Check the Resources Gathered in ORDER:
 
 ## Neural Networks and Deep Learning
 
-### Deep Learning Books
+#### Deep Learning Books
 - [Neural Networks and Deep Learning By Michael Nielsen / Dec 2019 - Beginner](http://neuralnetworksanddeeplearning.com/index.html)
 
 - [Deep Learning Book by Aaron Courville, Ian Goodfellow - Advanced](https://www.deeplearningbook.org/)
 
-### Deep Learning Courses
+#### Deep Learning Courses
 - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://m.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) 
 - [Deep Learning: CS 182 Spring 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 
@@ -232,19 +232,20 @@ Starter Book:
 
 Reference Articles:
 
-1- [Article on facebook](https://www.facebook.com/mohamed.hamedhammad/posts/5345089308896909)
+- [Article on facebook](https://www.facebook.com/mohamed.hamedhammad/posts/5345089308896909)
 
-2- explore more posts here using [this filter](https://www.facebook.com/profile/100001876777351/search/?q=c%23%20)
+- explore more posts here using [this filter](https://www.facebook.com/profile/100001876777351/search/?q=c%23%20)
 
 ### SQL Server
 
-1- [First read those articles](https://www.facebook.com/mohamed.hamedhammad/posts/2495377697201432)
+- [First read those articles](https://www.facebook.com/mohamed.hamedhammad/posts/2495377697201432)
+
 #### Books
-2- [TSQL Fundamentals - Beginner ](https://drive.google.com/file/d/1_Ewc1Ike-0OBcR-Bx47mx7-xLM4RJE0W/view?usp=sharing)
+- [TSQL Fundamentals - Beginner ](https://drive.google.com/file/d/1_Ewc1Ike-0OBcR-Bx47mx7-xLM4RJE0W/view?usp=sharing)
 
-3- [SQL Server Concurrency Locking, Blocking and Row Versioning - Advanced](https://www.red-gate.com/library/sql-server-concurrency-locking-blocking-and-row-versioning)
+- [SQL Server Concurrency Locking, Blocking and Row Versioning - Advanced](https://www.red-gate.com/library/sql-server-concurrency-locking-blocking-and-row-versioning)
 
-4- [Professional SQL Server 2012 Internals and Troubleshooting - Advanced](http://2.droppdf.com/files/uXeQV/professional-sql-server-2012-internals-and-troubleshooting.pdf)
+- [Professional SQL Server 2012 Internals and Troubleshooting - Advanced](http://2.droppdf.com/files/uXeQV/professional-sql-server-2012-internals-and-troubleshooting.pdf)
 
 
 ### Eng. Mohamed Hammad Posts
