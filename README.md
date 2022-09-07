@@ -143,8 +143,8 @@ Reference Articles:
 
 ## Distributed Systems
 
-[Distributed Systems University of Cambridge](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
-
+- [Distributed Systems University of Cambridge - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- [Lecture Notes](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf)
 
 ## Deep Learning in Life Sciences
 
