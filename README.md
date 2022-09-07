@@ -29,9 +29,15 @@
 
 [Reference Article](https://bit.ly/2S2FOlV)
 
-## Important Resources in: AI, ML, DS
+## Important Resources in: AI, ML, DS (Next Sections)
 - https://deep-learning-drizzle.github.io/
 
+## Data Science
+### Books:
+- https://jakevdp.github.io/PythonDataScienceHandbook/
+
+### Courses:
+- [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
 
 ## Artificial intelligence
 ### Books:
