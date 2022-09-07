@@ -71,7 +71,7 @@
 
 [Reference Article](https://bit.ly/2S2FOlV)
 
-## Operating System
+## Operating Systems
 
 ### He recommended Berkeley courses, here is the latest version of the course
 
