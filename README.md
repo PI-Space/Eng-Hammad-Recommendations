@@ -8,7 +8,7 @@
 ## Index:
 - [Introduction to Programming](#introduction-to-programming)
 - [Programming Paradigms](#programming-paradigms)
-- [Data Structure and Algorithms](#data-strcutre-and-algorithms)
+- [Data Structure and Algorithms](#data-structure-and-algorithms)
 - [Databases](#databases)
 - [Operating Systems](#operating-systems)
 - [Distributed Systems](#distributed-systems)
