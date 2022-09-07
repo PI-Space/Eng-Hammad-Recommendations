@@ -29,6 +29,8 @@
 
 [Reference Article](https://bit.ly/2S2FOlV)
 
+## Important Resources in: AI, ML, DS
+- https://deep-learning-drizzle.github.io/
 
 
 ## Artificial intelligence
