@@ -48,7 +48,8 @@
 - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://m.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) 
 - [Deep Learning: CS 182 Spring 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 
-## Probabilistic Machine Learning
+## Machine Learning
+### Probabilistic Machine Learning
 
 > **The Resources in this section are ordered:**
 
@@ -70,7 +71,8 @@ Now Check the Resources Gathered in ORDER:
 5- [Probabilistic Machine Learning kevin Murphy BOOK](https://github.com/rohinarora/EECE5644-Machine_Learning/blob/master/Kevin%20Murphy%20-%20Machine%20Learning%20Probabilistic%20Perspective.pdf)
 
 6- Gaussian Processes for Machine Learning, MIT Press
-
+### Machine Learning Courses
+- [VU Machine Learning 2019](https://www.youtube.com/playlist?list=PLCof9EqayQgupldnTvqNy_BThTcME5r93)
 ## Programming Paradigms
 ### Stanford Course
 - [Stanford - Programming Paradigms](https://www.youtube.com/playlist?list=PLzi8dDyr-I0k4TrPGf6V1DPXuQss9WBF1)
