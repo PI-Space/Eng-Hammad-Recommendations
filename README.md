@@ -34,10 +34,10 @@
 
 
 ## Artificial intelligence
-
-1- [artificial intelligence a modern approach (Book)](https://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf)
-
-2- [CPSC 322: Introduction to Artificial Intelligence (UBC)](https://www.youtube.com/playlist?list=PLDPnGbm0sUmpzvcGvktbz446SLdFbfZVU)
+### Books:
+- [artificial intelligence a modern approach (Book)](https://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf)
+### Courses:
+- [CPSC 322: Introduction to Artificial Intelligence (UBC)](https://www.youtube.com/playlist?list=PLDPnGbm0sUmpzvcGvktbz446SLdFbfZVU)
 
 ## Neural Networks and Deep Learning
 
