@@ -71,8 +71,11 @@ Now Check the Resources Gathered in ORDER:
 
 6- Gaussian Processes for Machine Learning, MIT Press
 
+## Programming Paradigms
+### Stanford Course
+- [Stanford - Programming Paradigms](https://www.youtube.com/playlist?list=PLzi8dDyr-I0k4TrPGf6V1DPXuQss9WBF1)
 
-## Functional Programming
+### Functional Programming
 
 [Eng. Mohammed Hammad Playlist](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f)
 
@@ -82,7 +85,7 @@ Now Check the Resources Gathered in ORDER:
 
 3- [Category theory for programmers by bartosz milewisky](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
-## Object Oriented Programming
+### Object Oriented Programming
 
 1- [Head First Object Oriented Analysis and Design](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
 
