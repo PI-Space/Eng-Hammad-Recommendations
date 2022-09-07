@@ -39,11 +39,14 @@
 
 ## Neural Networks and Deep Learning
 
-1- [Neural Networks and Deep Learning By Michael Nielsen / Dec 2019 - Beginner](http://neuralnetworksanddeeplearning.com/index.html)
+### Books
+- [Neural Networks and Deep Learning By Michael Nielsen / Dec 2019 - Beginner](http://neuralnetworksanddeeplearning.com/index.html)
 
-2- [Deep Learning Book by Aaron Courville, Ian Goodfellow - Advanced](https://www.deeplearningbook.org/)
+- [Deep Learning Book by Aaron Courville, Ian Goodfellow - Advanced](https://www.deeplearningbook.org/)
 
-3- [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://m.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) 
+### Courses
+- [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://m.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) 
+- [Deep Learning: CS 182 Spring 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 
 ## Probabilistic Machine Learning
 
