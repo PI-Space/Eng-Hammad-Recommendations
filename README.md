@@ -5,6 +5,12 @@
 ***Notice***
 > **Any Facebook links must be followed only if you are signed in, else articles won't show up**
 
+
+
+## Introduction to Programming
+
+### Courses:
+- [CS50](https://www.youtube.com/watch?v=4zy0z5W0-w4&list=PLhQjrBD2T380Xnv_v683p6UjiKJZe13ki)
 ## Computational Thinking and Algorithms
 
 1- [MIT Tutorials - Beginner](https://m.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)
