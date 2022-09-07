@@ -56,34 +56,40 @@
 - [Algorithms Unplugged (book) - Advanced](https://link.springer.com/book/10.1007/978-3-642-15328-0)
 
 ## Databases
+#### Courses
+- [CMU 15-445/645 Intro to Database Systems  (Fall 2019) (Tutorials) - Beginner](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
 
-1- [CMU 15-445/645 Intro to Database Systems  (Fall 2019) (Tutorials) - Beginner](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
+- [CMU 15-721 Advanced Database Systems (Spring 2020)(Tutorials)  - Advanced](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
+#### Books
+- [The text book of the previous course](https://www.db-book.com/db7/index.html)
 
-2- [CMU 15-721 Advanced Database Systems (Spring 2020)(Tutorials)  - Advanced](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
+- [Concise Guide to Databases A Practical Introduction - Beginner](https://link.springer.com/book/10.1007/978-1-4471-5601-7)
 
-3- [The text book of the previous course](https://www.db-book.com/db7/index.html)
+- [Designing Data-Intensive Applications - Graduate level)](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
 
-4- [Concise Guide to Databases A Practical Introduction (book) - Beginner](https://link.springer.com/book/10.1007/978-1-4471-5601-7)
+- [seven databases in seven weeks (to study differences among different databases)](http://barbra-coco.dyndns.org/yuri/seven/seven2.pdf)
 
-5- [Designing Data-Intensive Applications (book) - Graduate level)](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
+- [NoSQL Distilled](https://bigdata-ir.com/wp-content/uploads/2017/04/NoSQL-Distilled.pdf)
 
-6- [seven databases in seven weeks (to study differences among different databases)](http://barbra-coco.dyndns.org/yuri/seven/seven2.pdf)
+[Reference Article](https://www.facebook.com/mohamed.hamedhammad/posts/2485104038228798)
 
 [Reference Article](https://bit.ly/2S2FOlV)
 
 ## Operating Systems
 
-### He recommended Berkeley courses, here is the latest version of the course
+#### Courses
 
-1- CS 162, 2019, UC Berkeley (Tutorials) - Beginner
+- CS 162, 2019, UC Berkeley (Tutorials) - Beginner
 
 [Videos](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
 
 [Resources](https://inst.eecs.berkeley.edu/~cs162/sp21/)
 
-2- [Introduction to Operating System Design and Implementation (Book) - Beginner](https://www.springer.com/gp/book/9781846288425)
+#### Books
 
-3- [OPERATING SYSTEMS THREE EASY PIECES (Book) - Beginner](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Introduction to Operating System Design and Implementation (Book) - Beginner](https://www.springer.com/gp/book/9781846288425)
+
+- [OPERATING SYSTEMS THREE EASY PIECES (Book) - Beginner](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ## Distributed Systems
 
@@ -94,27 +100,23 @@
 
 ### Martin Fowler books
 
-1- Refactoring
+- Refactoring
 
-2- Patterns of Enterprise Application Architecture
+- Patterns of Enterprise Application Architecture
 
-3- Refactoring to Patterns
+- Refactoring to Patterns
 
-4- Continuous Integration
+- Continuous Integration
 
-5- Continuous Delivery
+- Continuous Delivery
 
 [Link for all](https://martinfowler.com/books/)
 
 [Reference Article](https://www.facebook.com/mohamed.hamedhammad/posts/4783645665041279)
 
-6- [NoSQL Distilled](https://bigdata-ir.com/wp-content/uploads/2017/04/NoSQL-Distilled.pdf)
-
-[Reference Article](https://www.facebook.com/mohamed.hamedhammad/posts/2485104038228798)
-
 ### Robert Martin
 
-1- [clean code](https://github.com/ontiyonke/book-1/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf) مهم
+- [Clean Code](https://github.com/ontiyonke/book-1/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf)
 
 Reference Articles
 
@@ -123,7 +125,7 @@ Reference Articles
 * [Article 3](https://www.facebook.com/mohamed.hamedhammad/posts/3586703234735534)
 * [Article 4](https://www.facebook.com/mohamed.hamedhammad/posts/5195362743869567)
 
-2- Refactoring to patterns مهم برضه
+- Refactoring To Patterns 
 
 * [Link](https://github.com/abhinavkorpal/awesome-computer-science-EBook/blob/master/DesignPatterns/Refactoring%20To%20Patterns%20-%20Joshua%20Kerievsky.pdf)
 
@@ -131,11 +133,11 @@ Reference Articles
 
 ## Domain Driven Design
 
-1- [Domain-Driven Design Distilled (entry)](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
+- [Domain-Driven Design Distilled (entry)](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
 
-2- [implementing domain driven design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
+- [implementing domain driven design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
 
-3- [domain driven design, eric evans](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+- [domain driven design, eric evans](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 
 ## Important Resources in: AI, ML, DS (Next Sections)
 - https://deep-learning-drizzle.github.io/
